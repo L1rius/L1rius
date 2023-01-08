@@ -1,3 +1,5 @@
 ### Nothing to read there.
 
-📌 `StrangeSymphony` project
+📌 `Fragment` project
+
+Bye! 👋
